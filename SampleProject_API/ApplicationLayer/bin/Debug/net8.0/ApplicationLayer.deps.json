@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApplicationLayer/1.0.0": {
+        "dependencies": {
+          "SampleAPI_Core": "1.0.0"
+        },
+        "runtime": {
+          "ApplicationLayer.dll": {}
+        }
+      },
+      "SampleAPI_Core/1.0.0": {
+        "runtime": {
+          "SampleAPI_Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApplicationLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SampleAPI_Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

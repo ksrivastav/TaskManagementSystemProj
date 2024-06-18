@@ -1,0 +1,15 @@
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\bin\Debug\net8.0\SampleAPI_Core.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\bin\Debug\net8.0\SampleAPI_Core.pdb
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache
+D:\LVIE\SampleAPIProject\SampleProject_API\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CopyComplete

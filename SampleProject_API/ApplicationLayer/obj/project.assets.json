@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SampleAPI_Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SampleAPI_Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SampleAPI_Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleAPI_Core/1.0.0": {
+      "type": "project",
+      "path": "../SampleAPI_Core/SampleAPI_Core.csproj",
+      "msbuildProject": "../SampleAPI_Core/SampleAPI_Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SampleAPI_Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Unthinkable\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\LVIE\\SampleAPIProject\\SampleProject_API\\ApplicationLayer\\ApplicationLayer.csproj",
+      "projectName": "ApplicationLayer",
+      "projectPath": "D:\\LVIE\\SampleAPIProject\\SampleProject_API\\ApplicationLayer\\ApplicationLayer.csproj",
+      "packagesPath": "C:\\Users\\Unthinkable\\.nuget\\packages\\",
+      "outputPath": "D:\\LVIE\\SampleAPIProject\\SampleProject_API\\ApplicationLayer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Unthinkable\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\LVIE\\SampleAPIProject\\SampleProject_API\\SampleAPI_Core\\SampleAPI_Core.csproj": {
+              "projectPath": "D:\\LVIE\\SampleAPIProject\\SampleProject_API\\SampleAPI_Core\\SampleAPI_Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

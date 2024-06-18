@@ -1,0 +1,17 @@
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\bin\Debug\net8.0\DAL.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\bin\Debug\net8.0\DAL.pdb
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\DAL.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\DAL.pdb
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\bin\Debug\net8.0\SampleAPI_Core.dll
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\bin\Debug\net8.0\SampleAPI_Core.pdb
+D:\LVIE\SampleAPIProject\SampleProject_API\DAL\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
